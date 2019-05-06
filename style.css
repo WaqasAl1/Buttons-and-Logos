@@ -1,0 +1,95 @@
+body{
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+    right: 20%;
+    left: 20%;
+}
+#cart-btn{
+    background-color: crimson ;
+    color: #ffffff;
+    font-size: 1em;
+    font-family: 'Montserrat', sans-serif;
+    border-color: transparent;
+    width: 150px;
+    height: 45px;
+}
+#cart-btn:hover{
+    background-color: red;
+    color: white
+}
+#start-btn{
+    background-color: yellow;
+    color: blue;
+    border-color: blue;
+    font-family: 'Gugi', cursive;
+    width: 120px;
+    height: 42px;
+    font-size: 1.1em;
+}
+#start-btn:hover{
+    background-color: blue;
+    color: yellow;
+    border-color: none;
+}
+#login-btn{
+    background-image: linear-gradient(to right ,rgb(9, 247, 247),rgb(0, 255, 149));
+    color: white;
+    border-color: transparent;
+    border-radius: 50px;
+    font-family: 'Montserrat', sans-serif;
+    width: 125px;
+    border: none;
+    height: 38px;
+    font-size: 1.1em;
+
+}
+#login-btn:hover{
+    background-image: linear-gradient(to right, rgb(9, 247, 247),rgb(0, 255, 149))
+
+}
+#signup-btn{
+    background-color: white;
+    color: purple;
+    border-color: purple;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    width: 125px;
+    height: 38px;
+    font-size: 1.1em;
+
+}
+#signup-btn:hover{
+    background-color: purple;
+    border: none;
+    color: white; 
+}
+#subscribe-btn{
+    background-color: orange;
+    color: white;
+    border-color: darkorange;
+    border-radius: 5px;
+    font-family: 'Montserrat', sans-serif;
+    width: 150px;
+    height: 45px;
+    font-size: 1.1em;
+
+}
+#subscribe-btn:hover{
+    background-color: orange;
+    border: none;
+}
+#twitter-btn{
+    background-color: white;
+    color: blue;
+    font-size: 1.5em;
+    border-color: blue;
+    border-radius: 100%;
+    width: 45px;
+    height: 55px; 
+}
+#twitter-btn:hover{
+    background-color: blue;
+    color: #ffffff;
+    border: none;
+}
